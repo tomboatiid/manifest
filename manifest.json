@@ -1,0 +1,37 @@
+{
+    "theme_color": "#b51200",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "https://www.tomboati.id/",
+    "prefer_related_applications": false,
+    "name": "Tomboati.id",
+    "short_name": "Tomboati.id",
+    "description": "Biro Agen Travel Paket Umroh Murah dan Muslim Tour Tanpa Antri Tanpa Ribet Pasti Berangkat",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiywU7xbpUg1rjZcO6tTj87oTKuHULL1Mi2fZTnJN-ADsGf-GCISM9JUhV9f2jU73gGohTV01ygdxa7MiERPZTVI5F9EGRmORVO-c9LnHS21-PooGKZnBmzp3psl77tvWJiO_f7_a88DeqbuRQdLugOsoPSzXqZY2Bw73hdUlyTNnzaYPY2ApJF-IuNe1Jc/s1600/logo-tomboati-id192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiywU7xbpUg1rjZcO6tTj87oTKuHULL1Mi2fZTnJN-ADsGf-GCISM9JUhV9f2jU73gGohTV01ygdxa7MiERPZTVI5F9EGRmORVO-c9LnHS21-PooGKZnBmzp3psl77tvWJiO_f7_a88DeqbuRQdLugOsoPSzXqZY2Bw73hdUlyTNnzaYPY2ApJF-IuNe1Jc/s1600/logo-tomboati-id192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+       
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxI_iU57XfTPlcZg9qbM_H9Zjz7E-f6td7No9Cr7DRP9StEBbbOU76QJBstD1N9iZhvJypCbEOFwgA2jGInzcXQv3lvYk0FD1Lo-mHPd57guJbZrEU4JpRp7uklFkGsVadZEZDaHWr2QYusY-Bns2ZHeHKV0tVSD0t8SnxPaNoFJpoteHzKIFexxSL00z/s1600/logo-tomboati-id512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxI_iU57XfTPlcZg9qbM_H9Zjz7E-f6td7No9Cr7DRP9StEBbbOU76QJBstD1N9iZhvJypCbEOFwgA2jGInzcXQv3lvYk0FD1Lo-mHPd57guJbZrEU4JpRp7uklFkGsVadZEZDaHWr2QYusY-Bns2ZHeHKV0tVSD0t8SnxPaNoFJpoteHzKIFexxSL00z/s1600/logo-tomboati-id512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
