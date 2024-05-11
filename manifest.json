@@ -2,7 +2,7 @@
     "theme_color": "#b51200",
     "background_color": "#fff",
     "display": "standalone",
-    "start_url": "https://www.tomboati.id/",
+    "start_url": "/?utm_source=homescreen",
     "prefer_related_applications": false,
     "name": "Tomboati.id",
     "short_name": "Tomboati.id",
